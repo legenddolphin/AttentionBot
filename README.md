@@ -25,4 +25,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-http://legenddolphin.wordpress.com/2012/12/08/attentionbot-a-robot-keeping-human-attention/
+https://yenchiah.wordpress.com/2016/05/10/attentionbot-a-robot-keeping-human-attention/
